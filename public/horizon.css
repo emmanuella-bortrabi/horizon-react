@@ -1,0 +1,39 @@
+.b{
+	color: white;
+	text-align: center;
+}
+h4{
+	color: green;
+	text-align: center;
+}
+
+h5{
+	color: blue;
+	text-align: center;
+}
+
+.ella{
+	height: 140px;
+	background-color: violet;
+}
+.flag{
+	display: flex;
+	justify-content: center;
+	margin-left: 40vw;
+}
+
+
+.flag img{
+	margin: 1vw;
+	width: 40px;
+	height: auto;
+}
+.a{
+	height: 80px;
+	width: auto;
+
+}
+
+.a img {
+	height: 100%;
+}
